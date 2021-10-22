@@ -1,6 +1,10 @@
 #title{
   background-color: #FF4C68;
   color:#fff;
+  position: relative;
+
+
+
 }
 body{
   font-family: 'Montserrat', sans-serif;
@@ -14,7 +18,7 @@ font-size:3rem;
 line-height:1.5;
 }
 .title-content{
-  padding:3% 15%;
+  padding:3% 15% 10%;;
 }
 
 .navbar-brand{
@@ -25,14 +29,24 @@ line-height:1.5;
   padding:0 18px;
 }
 .download-btn {
-  margin : 5% 3% 5% 0
+  margin : 5% 3% 5% 0;
 }
 .title-img{
   width:60%;
   transform: rotate(25deg);
+    position: absolute;
+    right:30%;
+
+
+
+
 }
 .iphone {
   margin-top:20px;
+  position: relative;
+
+
+
 }
 h3{
   font-family: 'Montserrat-Bold', sans-serif;
@@ -45,6 +59,9 @@ p{
 }
 #features{
   padding:7% 15%;
+  position: relative;
+
+ background-color: white;
 }
 
 .fa-heart,.fa-bullseye,.fa-check-circle{
